@@ -1,0 +1,5 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\bin\Debug\SaLyrics.BussinessLogicLayer.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\bin\Debug\SaLyrics.BussinessLogicLayer.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\obj\Debug\SaLyrics.BussinessLogicLayer.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\obj\Debug\SaLyrics.BussinessLogicLayer.pdb

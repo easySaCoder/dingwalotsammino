@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="B07C9027-5FBD-47F3-9986-E346C8466230" ModuleId="SaLyrics" />
+  <Module PersistentId="9FF73A99-EC5E-4855-8F2D-A269CA47C4C5" ModuleId="SaLyrics.Common" />
+  <Module PersistentId="3C28FD4C-A6CF-457E-BF9C-04102310EF15" ModuleId="SaLyrics.BussinessLogicLayer" />
+  <Module PersistentId="C9341488-EE80-4DD1-A3E9-1C78E15FC222" ModuleId="SaLyrics.WebUI" />
+  <Module PersistentId="374E3C58-9E21-4EB3-B6F3-C314E0F8E304" ModuleId="SaLyrics.DataAccesslayerTests" />
+  <Module PersistentId="9C4FD2A0-2FC3-45F3-842C-8407AA8FF8EA" ModuleId="SaLyrics.Entities" />
+  <Module PersistentId="09DF6696-8D7E-483C-9128-BCDD6C760ABD" ModuleId="SaLyrics.Services" />
+  <Module PersistentId="93BD57B6-FC99-4508-8657-97550612E867" ModuleId="SaLyrics.FeatureDrivenDevelopment" />
+  <Module PersistentId="BFB0BB6F-FFB0-4150-9337-A4C4111F09D7" ModuleId="SaLyricsUI.Test" />
+</Modules>

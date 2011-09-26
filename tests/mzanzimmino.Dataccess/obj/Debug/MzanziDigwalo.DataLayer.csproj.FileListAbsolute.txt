@@ -1,0 +1,11 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\bin\Debug\MzanziDigwalo.DataLayer.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\bin\Debug\MzanziDigwalo.DataLayer.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\bin\Debug\MzanziDigwalo.Common.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\bin\Debug\MzanziDigwalo.Entities.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\bin\Debug\Norm.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\bin\Debug\MzanziDigwalo.Common.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\bin\Debug\MzanziDigwalo.Entities.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\bin\Debug\Norm.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\obj\Debug\MzanziDigwalo.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\obj\Debug\MzanziDigwalo.DataLayer.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics\obj\Debug\MzanziDigwalo.DataLayer.pdb

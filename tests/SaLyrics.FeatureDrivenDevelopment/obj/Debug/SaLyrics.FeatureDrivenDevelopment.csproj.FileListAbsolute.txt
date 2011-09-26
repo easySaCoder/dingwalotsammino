@@ -1,0 +1,8 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.FeatureDrivenDevelopment\bin\Debug\SaLyrics.FeatureDrivenDevelopment.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.FeatureDrivenDevelopment\bin\Debug\SaLyrics.FeatureDrivenDevelopment.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.FeatureDrivenDevelopment\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.FeatureDrivenDevelopment\bin\Debug\WatiN.Core.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.FeatureDrivenDevelopment\bin\Debug\WatiN.Core.xml
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.FeatureDrivenDevelopment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.FeatureDrivenDevelopment\obj\Debug\SaLyrics.FeatureDrivenDevelopment.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.FeatureDrivenDevelopment\obj\Debug\SaLyrics.FeatureDrivenDevelopment.pdb

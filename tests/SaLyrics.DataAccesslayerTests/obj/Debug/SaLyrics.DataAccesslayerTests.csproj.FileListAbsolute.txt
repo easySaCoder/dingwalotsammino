@@ -1,0 +1,17 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.DataAccesslayerTests.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.DataAccesslayerTests.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\obj\Debug\SaLyrics.DataAccesslayerTests.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\obj\Debug\SaLyrics.DataAccesslayerTests.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\nunit.framework.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\nunit.mocks.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\pnunit.framework.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.DataLayer.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.Entities.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.Entities.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.DataLayer.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.Common.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\Norm.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.Common.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\Norm.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\SaLyrics.DataAccesslayerTests.dll.config

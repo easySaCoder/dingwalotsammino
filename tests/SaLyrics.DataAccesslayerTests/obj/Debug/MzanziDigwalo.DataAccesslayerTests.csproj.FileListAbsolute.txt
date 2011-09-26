@@ -1,0 +1,17 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.DataAccesslayerTests.dll.config
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.DataAccesslayerTests.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.DataAccesslayerTests.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.Common.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.DataLayer.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.Entities.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\nunit.framework.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\nunit.mocks.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\pnunit.framework.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\Norm.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.Common.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.Entities.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\MzanziDigwalo.DataLayer.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\bin\Debug\Norm.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\obj\Debug\MzanziDigwalo.DataAccesslayerTests.csprojResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\obj\Debug\MzanziDigwalo.DataAccesslayerTests.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.DataAccesslayerTests\obj\Debug\MzanziDigwalo.DataAccesslayerTests.pdb

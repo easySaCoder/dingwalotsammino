@@ -1,0 +1,5 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.Services\bin\Debug\MzanziDigwalo.Services.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.Services\bin\Debug\MzanziDigwalo.Services.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.Services\obj\Debug\MzanziDigwalo.Services.csprojResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.Services\obj\Debug\MzanziDigwalo.Services.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.Services\obj\Debug\MzanziDigwalo.Services.pdb

@@ -1,0 +1,128 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{1B88A43C-8586-43FD-A5F5-33D115F5703D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{9E88429A-76B7-483E-BFA9-C59A2A251436}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packages", "packages", "{6008DEA5-50B2-4205-A85D-56BCE712CCFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructureMap", "StructureMap", "{59C75ED6-831A-4B7A-8AAA-3B6A8AB62567}"
+	ProjectSection(SolutionItems) = preProject
+		packages\StructureMap\lib\StructureMap.dll = packages\StructureMap\lib\StructureMap.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Norm", "Norm", "{D0032668-68B6-4270-A097-26B3D71A37A5}"
+	ProjectSection(SolutionItems) = preProject
+		packages\Norm\Norm.dll = packages\Norm\Norm.dll
+		packages\Norm\Norm.pdb = packages\Norm\Norm.pdb
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PostSharp", "PostSharp", "{F1D1F4E5-349B-4821-95FD-372777CEC43E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nunit", "Nunit", "{9780522E-13B0-490C-B768-F3CCC675164D}"
+	ProjectSection(SolutionItems) = preProject
+		packages\Nunit\nunit.framework.dll = packages\Nunit\nunit.framework.dll
+		packages\Nunit\nunit.mocks.dll = packages\Nunit\nunit.mocks.dll
+		packages\Nunit\pnunit.framework.dll = packages\Nunit\pnunit.framework.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "watin", "watin", "{002EF762-1B3C-4E18-B488-04A749305FB2}"
+	ProjectSection(SolutionItems) = preProject
+		packages\watin\bin\net40\Interop.SHDocVw.dll = packages\watin\bin\net40\Interop.SHDocVw.dll
+		packages\watin\bin\net40\Microsoft.mshtml.dll = packages\watin\bin\net40\Microsoft.mshtml.dll
+		packages\watin\bin\net40\WatiN.Core.dll = packages\watin\bin\net40\WatiN.Core.dll
+		packages\watin\bin\net40\WatiN.Core.XML = packages\watin\bin\net40\WatiN.Core.XML
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD26CF0F-5124-4993-9536-900FEDFFE76F}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		SaLyrics.vsmdi = SaLyrics.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.Core", "source\SaLyrics.BussinessLogicLayer\MzanziDigwalo.Core.csproj", "{3C28FD4C-A6CF-457E-BF9C-04102310EF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.Common", "source\SaLyrics.Common\MzanziDigwalo.Common.csproj", "{9FF73A99-EC5E-4855-8F2D-A269CA47C4C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.Entities", "source\SaLyrics.Entities\MzanziDigwalo.Entities.csproj", "{9C4FD2A0-2FC3-45F3-842C-8407AA8FF8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.Services", "source\SaLyrics.Services\MzanziDigwalo.Services.csproj", "{09DF6696-8D7E-483C-9128-BCDD6C760ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.WebUI", "source\SaLyrics.WebUI\MzanziDigwalo.WebUI.csproj", "{C9341488-EE80-4DD1-A3E9-1C78E15FC222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.DataLayer", "tests\mzanzimmino.Dataccess\MzanziDigwalo.DataLayer.csproj", "{B07C9027-5FBD-47F3-9986-E346C8466230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.DataAccesslayerTests", "tests\SaLyrics.DataAccesslayerTests\MzanziDigwalo.DataAccesslayerTests.csproj", "{374E3C58-9E21-4EB3-B6F3-C314E0F8E304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.FeatureDrivenDevelopment", "tests\SaLyrics.FeatureDrivenDevelopment\MzanziDigwalo.FeatureDrivenDevelopment.csproj", "{93BD57B6-FC99-4508-8657-97550612E867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MzanziDigwalo.Test", "tests\SaLyricsUI.Test\MzanziDigwalo.Test.csproj", "{BFB0BB6F-FFB0-4150-9337-A4C4111F09D7}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = SaLyrics.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C28FD4C-A6CF-457E-BF9C-04102310EF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C28FD4C-A6CF-457E-BF9C-04102310EF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C28FD4C-A6CF-457E-BF9C-04102310EF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C28FD4C-A6CF-457E-BF9C-04102310EF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF73A99-EC5E-4855-8F2D-A269CA47C4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF73A99-EC5E-4855-8F2D-A269CA47C4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF73A99-EC5E-4855-8F2D-A269CA47C4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF73A99-EC5E-4855-8F2D-A269CA47C4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4FD2A0-2FC3-45F3-842C-8407AA8FF8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4FD2A0-2FC3-45F3-842C-8407AA8FF8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4FD2A0-2FC3-45F3-842C-8407AA8FF8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4FD2A0-2FC3-45F3-842C-8407AA8FF8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DF6696-8D7E-483C-9128-BCDD6C760ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DF6696-8D7E-483C-9128-BCDD6C760ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DF6696-8D7E-483C-9128-BCDD6C760ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DF6696-8D7E-483C-9128-BCDD6C760ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9341488-EE80-4DD1-A3E9-1C78E15FC222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9341488-EE80-4DD1-A3E9-1C78E15FC222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9341488-EE80-4DD1-A3E9-1C78E15FC222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9341488-EE80-4DD1-A3E9-1C78E15FC222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07C9027-5FBD-47F3-9986-E346C8466230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07C9027-5FBD-47F3-9986-E346C8466230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07C9027-5FBD-47F3-9986-E346C8466230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07C9027-5FBD-47F3-9986-E346C8466230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374E3C58-9E21-4EB3-B6F3-C314E0F8E304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374E3C58-9E21-4EB3-B6F3-C314E0F8E304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374E3C58-9E21-4EB3-B6F3-C314E0F8E304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374E3C58-9E21-4EB3-B6F3-C314E0F8E304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BD57B6-FC99-4508-8657-97550612E867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BD57B6-FC99-4508-8657-97550612E867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BD57B6-FC99-4508-8657-97550612E867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BD57B6-FC99-4508-8657-97550612E867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB0BB6F-FFB0-4150-9337-A4C4111F09D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB0BB6F-FFB0-4150-9337-A4C4111F09D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB0BB6F-FFB0-4150-9337-A4C4111F09D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB0BB6F-FFB0-4150-9337-A4C4111F09D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3C28FD4C-A6CF-457E-BF9C-04102310EF15} = {1B88A43C-8586-43FD-A5F5-33D115F5703D}
+		{9FF73A99-EC5E-4855-8F2D-A269CA47C4C5} = {1B88A43C-8586-43FD-A5F5-33D115F5703D}
+		{9C4FD2A0-2FC3-45F3-842C-8407AA8FF8EA} = {1B88A43C-8586-43FD-A5F5-33D115F5703D}
+		{09DF6696-8D7E-483C-9128-BCDD6C760ABD} = {1B88A43C-8586-43FD-A5F5-33D115F5703D}
+		{C9341488-EE80-4DD1-A3E9-1C78E15FC222} = {1B88A43C-8586-43FD-A5F5-33D115F5703D}
+		{B07C9027-5FBD-47F3-9986-E346C8466230} = {1B88A43C-8586-43FD-A5F5-33D115F5703D}
+		{374E3C58-9E21-4EB3-B6F3-C314E0F8E304} = {9E88429A-76B7-483E-BFA9-C59A2A251436}
+		{93BD57B6-FC99-4508-8657-97550612E867} = {9E88429A-76B7-483E-BFA9-C59A2A251436}
+		{BFB0BB6F-FFB0-4150-9337-A4C4111F09D7} = {9E88429A-76B7-483E-BFA9-C59A2A251436}
+		{59C75ED6-831A-4B7A-8AAA-3B6A8AB62567} = {6008DEA5-50B2-4205-A85D-56BCE712CCFF}
+		{D0032668-68B6-4270-A097-26B3D71A37A5} = {6008DEA5-50B2-4205-A85D-56BCE712CCFF}
+		{F1D1F4E5-349B-4821-95FD-372777CEC43E} = {6008DEA5-50B2-4205-A85D-56BCE712CCFF}
+		{9780522E-13B0-490C-B768-F3CCC675164D} = {6008DEA5-50B2-4205-A85D-56BCE712CCFF}
+		{002EF762-1B3C-4E18-B488-04A749305FB2} = {6008DEA5-50B2-4205-A85D-56BCE712CCFF}
+	EndGlobalSection
+EndGlobal

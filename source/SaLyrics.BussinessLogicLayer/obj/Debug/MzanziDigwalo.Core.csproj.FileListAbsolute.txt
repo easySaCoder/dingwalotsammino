@@ -1,0 +1,5 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\bin\Debug\MzanziDigwalo.Core.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\bin\Debug\MzanziDigwalo.Core.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\obj\Debug\MzanziDigwalo.Core.csprojResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\obj\Debug\MzanziDigwalo.Core.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.BussinessLogicLayer\obj\Debug\MzanziDigwalo.Core.pdb

@@ -1,0 +1,9 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\bin\Debug\SaLyricsUI.Test.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\bin\Debug\SaLyricsUI.Test.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\obj\Debug\SaLyricsUI.Test.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\obj\Debug\SaLyricsUI.Test.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\bin\Debug\nunit.framework.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\bin\Debug\nunit.mocks.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\bin\Debug\pnunit.framework.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyricsUI.Test\bin\Debug\TechTalk.SpecFlow.dll

@@ -1,0 +1,7 @@
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.WebUI\obj\Debug\MzanziDigwalo.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.WebUI\bin\MzanziDigwalo.WebUI.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.WebUI\bin\MzanziDigwalo.WebUI.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.WebUI\bin\MzanziDigwalo.Entities.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.WebUI\bin\MzanziDigwalo.Entities.pdb
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.WebUI\obj\Debug\MzanziDigwalo.WebUI.dll
+C:\Users\nolom.INTERNAL\Programming\OSS\dotnet\SaLyrics\SaLyrics.WebUI\obj\Debug\MzanziDigwalo.WebUI.pdb

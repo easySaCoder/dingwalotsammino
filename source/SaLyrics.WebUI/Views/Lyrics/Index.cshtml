@@ -1,0 +1,24 @@
+﻿@model SaLyrics.WebUI.Models.LyricsViewModel
+
+@{
+    ViewBag.Title = "Index"; 
+}
+
+<div style="text-align:center">
+@foreach (string item in Model.Lyrics.ZeroToZArtistPrefix)
+	{
+  <b >
+		    @Html.ActionLink(item.ToString().ToUpper(), "Index", "Lyrics",null, new  { id=item})
+        </b>
+	}
+  </div>
+  <div style="text-align:center">
+  @Html.TextBoxFor(x => x.ArtistSearchText)
+     
+     <input  type="button" value="Search"/>
+
+  </div>
+
+
+
+
